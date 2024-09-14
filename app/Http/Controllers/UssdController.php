@@ -19,7 +19,7 @@ class UssdController extends Controller
         // echo "CON 1.Register\n 2.Login\n 3. Forgot Password";
         if ($text == "") {
 
-            echo "Con What would you like to check: \n 1. My account balance  \n 2. My Phone  Number "; 
+            echo "CON What would you like to check: \n 1. My account balance  \n 2. My Phone  Number "; 
 
         }
 
